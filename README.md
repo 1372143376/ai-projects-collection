@@ -1,42 +1,33 @@
 # AI Projects Collection
 
-## 简介
-本仓库旨在收集和整理当前最前沿的AI项目，为AI爱好者和研究者提供一个全面的资源库。
+本仓库收集了各种优秀的 AI 相关项目，涵盖机器学习、深度学习、自然语言处理、计算机视觉等领域。
 
-## 最新AI项目
+## 项目列表
 
-### 1. GPT-4.5
-- **描述**: OpenAI最新发布的多模态大语言模型，支持文本、图像、音频和视频的生成与理解
-- **特点**: 
-  - 上下文窗口扩展到128k tokens
-  - 支持实时语音交互
-  - 多语言能力显著提升
-  - 推理速度提升40%
-- **应用场景**: 智能助手、内容创作、教育、医疗诊断等
+### AI 技术
+- [OmniParser](http://t.cn/A6n4HUTW) - 基于纯视觉的 GUI 智能体
+- [ChatTTS](https://github.com/2noise/ChatTTS) - 对话场景语音生成模型
+- [DLRover](https://github.com/intelligent-machine-learning/dlrover) - AI 大模型训练方案
+- [SwiftInfer](https://github.com/hpcaitech/SwiftInfer) - StreamingLLM 推理加速框架
+- [Audio2PhotoReal](https://github.com/facebookresearch/audio2photoreal) - 音频驱动生成虚拟人物
+- [OpenVoice](https://github.com/myshell-ai/OpenVoice) - 多功能即时声音克隆技术
 
-### 2. Stable Diffusion 3
-- **描述**: Stability AI发布的最新文本到图像生成模型
-- **特点**:
-  - 支持8K分辨率图像生成
-  - 改进的文本理解能力
-  - 更快的生成速度
-  - 支持3D模型生成
-- **应用场景**: 艺术创作、游戏开发、广告设计等
+### AI 工具  
+- [Shortest](https://github.com/anti-work/shortest) - AI 测试框架
+- [STranslate](https://github.com/ZGGSONG/STranslate) - 翻译和 OCR 工具
+- [x-kit](https://github.com/xiaoxiunique/x-kit) - Twitter 数据分析工具
+- [MMAudio](https://huggingface.co/spaces/hkchengrex/MMAudio) - 视频自动配音工具
+- [Hoarder](https://github.com/hoarder-app/hoarder) - 书签管理 AI 工具
+- [Midscene.js](https://github.com/web-infra-dev/midscene) - UI 自动化 SDK
 
-### 3. DeepMind Gemini
-- **描述**: DeepMind开发的多模态AI系统，整合了AlphaGo和AlphaFold的技术
-- **特点**:
-  - 强大的推理和规划能力
-  - 蛋白质结构预测准确率提升
-  - 支持复杂决策任务
-  - 可解释性增强
-- **应用场景**: 生物医药、金融决策、科学研究等
+### 学习资源
+- [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 大语言模型应用集合
+- [Awesome Low Level Design](https://github.com/ashishps1/awesome-low-level-design) - 低级设计资源
+- [Prompt Engineering](https://github.com/NirDiamant/Prompt_Engineering) - 提示词学习指南
+- [Awesome Math Books](https://github.com/valeman/Awesome_Math_Books) - 数学书籍集合
 
 ## 贡献指南
-1. 提交新的AI项目时，请按照模板提供详细信息
-2. 确保项目是开源或提供API接口
-3. 提供项目官网或GitHub链接
-4. 描述项目的主要功能和应用场景
+欢迎提交 PR 添加更多优质 AI 项目！
 
 ## 许可证
-本项目采用MIT许可证，欢迎自由使用和贡献。
+MIT
